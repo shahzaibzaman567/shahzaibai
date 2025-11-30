@@ -52,7 +52,7 @@ const Index = () => {
           <div className="flex items-center gap-2">
             <Sparkles className="w-6 h-6 text-primary" />
             <h1 className="text-2xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-              AI Chat Assistant 💖
+           Shahzaib AI With Katir and Hassib💖
             </h1>
           </div>
           <p className="text-sm text-muted-foreground mt-1">Ask me anything! 🌸</p>
